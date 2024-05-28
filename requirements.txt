@@ -1,0 +1,10 @@
+jupyter
+
+# interact with valhalla for routing information
+routingpy
+
+# UI
+ipyleaflet
+
+# searching locations using Nominatim
+geopy
